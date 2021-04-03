@@ -11,3 +11,4 @@ do {
 } while (prec1 <= 4000000);
 
 console.log(sum)
+
