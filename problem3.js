@@ -11,7 +11,8 @@ while (counter * counter <= newnumm) {
         counter++;
     }
 }
-if (newnumm > largestFact) { // the remainder is a prime number
+if (newnumm > largestFact) { 
+ // the remainder is a prime number
     largestFact = newnumm;
 }
 console.log(largestFact)
